@@ -3,6 +3,7 @@
     "rules": [
         {
             "domain_suffix": [
+                "ipinfo.io",
                 "instagram.com",
                 "dell.com",
                 "ntc.party",
