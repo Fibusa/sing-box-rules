@@ -63,7 +63,8 @@
                 "rules": [
                     {
                         "rule_set": [
-                            "test"
+                            "discord",
+                            "media"
                         ]
                     }
                 ],
@@ -74,9 +75,25 @@
         "rule_set": [
             {
                 "type": "remote",
-                "tag": "test",
+                "tag": "old",
                 "format": "source",
                 "url": "https://raw.githubusercontent.com/Fibusa/sing-box-rules/refs/heads/main/rules.json",
+                "download_detour": "vless-out",
+                "update_interval": "1m"
+            },
+            {
+                "type": "remote",
+                "tag": "discord",
+                "format": "source",
+                "url": "https://raw.githubusercontent.com/Fibusa/sing-box-rules/refs/heads/main/rulesets/discord.json",
+                "download_detour": "vless-out",
+                "update_interval": "1h"
+            },
+            {
+                "type": "remote",
+                "tag": "media",
+                "format": "source",
+                "url": "https://raw.githubusercontent.com/Fibusa/sing-box-rules/refs/heads/main/rulesets/media.json",
                 "download_detour": "vless-out",
                 "update_interval": "1m"
             }
