@@ -87,7 +87,7 @@
                 "format": "source",
                 "url": "https://raw.githubusercontent.com/Fibusa/sing-box-rules/refs/heads/main/rulesets/discord.json",
                 "download_detour": "vless-out",
-                "update_interval": "1h"
+                "update_interval": "1m"
             },
             {
                 "type": "remote",
