@@ -724,6 +724,14 @@
                 "188.114.99.224",
                 "204.11.56.48",
                 "209.85.233.207"
+            ],
+            "domain_suffix": [
+                "discord.com",
+                "discord.gg",
+                "discordapp.com",
+                "discordapp.net",
+                "discord.media",
+                "discordcdn.com"
             ]
         }
     ]
