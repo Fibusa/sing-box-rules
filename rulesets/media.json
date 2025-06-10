@@ -1,0 +1,46 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "ipinfo.io",
+                "instagram.com",
+                "dell.com",
+                "ntc.party",
+                "ttvnw.net",
+                "googlevideo.com",
+                "openai.com",
+                "chatgpt.com",
+                "oracle.com",
+                "citrix.com",
+                "animego.org",
+                "ggpht.com",
+                "youtube.com",
+                "play.google.com",
+                "ytimg.com",
+                "cdninstagram.com",
+                "fbsbx.com",
+                "sagernet.org",
+                "rutracker.org",
+                "googleapis.com",
+                "opentext.com",
+                "dellcdn.com",
+                "docker.com",
+                "docker.io",
+                "amazon-adsystem.com",
+                "jtvnw.net",
+                "cloudflare.com",
+                "googlesyndication.com",
+                "ggpht.com",
+                "4pda.to",
+                "pornhub.org",
+                "phncdn.com",
+                "erome.com",
+                "amedia.lol",
+                "animeru.vip",
+                "animru.org",
+                "rutracker.org"
+            ]
+        }
+    ]
+}
